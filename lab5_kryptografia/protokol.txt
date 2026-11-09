@@ -1,0 +1,14 @@
+1. Linux: /etc/shadow 
+polecenie dla obejrzania: sudo cat /etc/shadow 
+postać: imie:$algorytm$sol$hash.
+Windows: SAM-plik (C:\Windows\System32\config\SAM), on jest zablokowany systemem. Można go dostać tylko oprgramowaniem spiecjalnym.
+
+2.
+slowo/funkcja	sha1 		sha2-256       sha2-384 	sha2-512 	md5
+dziendobry	160 bit=20 bajt 256bit=32 bajt 384 bit=48 bajt  512 bit=64 bajt 128 bit=16 bajt
+milosc		160 bit=20 bajt 256bit=32 bajt 384 bit=48 bajt  512 bit=64 bajt 128 bit=16 bajt	
+plik:		160 bit=20 bajt 256bit=32 bajt 384 bit=48 bajt  512 bit=64 bajt 128 bit=16 bajt
+
+
+
+
