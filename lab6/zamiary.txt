@@ -1,0 +1,15 @@
+slowo	czas	sha1	sha512
+d	0secund 
+d
+
+	sha1 sha512
+slowo
+		czysty czas	czas(włączając inicjalizację, kompilację jądra i t.p)
+czas dla d,sha1: 0secund	8
+czas dla d,sha512: 1secund	11
+czas dla dw,sha1: 0secund	4
+czas dla dw,sha512: 0secund	3
+czas dla dwc,sha1: 0secund	4
+czas dla dwc,sha512: 0secund	3
+czas dla dwcas,sha1: 0secund	4
+czas dla dwcas,sha512: 0secund	4
